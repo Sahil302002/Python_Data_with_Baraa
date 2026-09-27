@@ -8,7 +8,7 @@ print("hello World")
 # 2.Print Message to User
 # 3. Store Data
 
-# Store the Final Exam Code
+x = 98 # Store the Final Exam Score
 
 
 print("Hi python")
@@ -33,18 +33,19 @@ print("Hi \"Python\"")
 
 print('Hi "Python"')
 
-
 print('Hi \'Python\'')
 
 #print("Path: C:\Users\Baraa")
 
 print("Path: C:\\Users\\Baraa")
 
-print("Message1\n")
-print("Message2")
-
+# Old approach
 print("Message1")
 print()
+print("Message2")
+
+
+print("Message1\n")
 print("Message2")
 
 print("Message1\n\n\n")
@@ -61,25 +62,6 @@ print("Message1\tMessage2")
 
 print(" Your Learning Path: \n\t - Python Basics\n\t - Data Engineering \n\t - AI")
 
-
-print(""" Your Learning Path: 
-\n\t - Python Basics
-\n\t - Data Engineering
-\n\t - AI""")
-# This will be its output
-#  Your Learning Path:
-
-#          - Python Basics
-
-#          - Data Engineering
-
-#          - AI
-
-# Correct one
-print(""" Your Learning Path: 
-\t - Python Basics
-\t - Data Engineering
-\t - AI""")
 
 
 
